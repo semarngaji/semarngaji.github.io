@@ -1,2 +1,2 @@
 # Tentang
-Halaman ini didedikasikan untuk istri dan anak-anakku
+Didedikasikan untuk istri dan anak-anakku
