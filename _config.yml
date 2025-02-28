@@ -1,4 +1,20 @@
-highlighter: rouge
+title: Samsul M
+description: >
+  Halaman ini didedikasikan untuk istri dan anak-anakku
+author:
+  name: semarngaji
+  email: semarngaji@gmail.com
+header_pages:
+  - about.md
 theme: minima
 minima:
   skin: dark
+highlighter: rouge
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+date_format: "%d-%m-%Y"
+  social_links:
+    - title: Twitter
+      icon: x-twitter
+      url: "https://x.com/semarngaji"
