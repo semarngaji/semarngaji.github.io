@@ -1,0 +1,14 @@
+title: Samsul M
+description: >
+  Halaman ini didedikasikan untuk istri dan anak-anakku
+author:
+  name: semarngaji
+  email: semarngaji@gmail.com
+theme: minima
+minima:
+  skin: dark
+highlighter: rouge
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+date_format: "%d-%m-%Y"
