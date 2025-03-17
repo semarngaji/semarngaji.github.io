@@ -4,7 +4,7 @@ description: >
 author:
   name: semarngaji
   email: semarngaji@gmail.com
-theme: minima
+remote_theme: jekyll/minima@latest
 minima:
   skin: dark
 highlighter: rouge
